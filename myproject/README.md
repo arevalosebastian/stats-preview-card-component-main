@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub/stats-preview-card-using-html-vanilla-css-Q6sFjP7pw]
+- Live Site URL: [https://arevalosebastian.github.io/stats-preview-card-component-main/myproject/index.html]
 
 ## My process
 
